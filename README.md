@@ -15,4 +15,7 @@
 
 **Leading teams since 2020** • Mentoring engineers • Writing ADRs
 
-📝 Writing at [satria.technology](https://satria.technology)
+---
+
+[![Website](https://img.shields.io/badge/✍️_Writing_at_satria.technology-red?style=for-the-badge)](https://satria.technology)
+[![Contact](https://img.shields.io/badge/📮_Get_in_Touch-green?style=for-the-badge)](https://forms.gle/XSmwdtWU1BwSTZ9NA)
