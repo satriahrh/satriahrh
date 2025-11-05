@@ -1,16 +1,18 @@
-## Hi there 👋
+### Hi there 👋 I'm Satria
 
-<!--
-**satriahrh/satriahrh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Lead Software Engineer** building scalable backend systems in Indonesia's tech startup scene.
 
-Here are some ideas to get you started:
+**What I work with:**
+- Go, Ruby, Python for backend systems
+- High-traffic commerce platforms (1M+ daily transactions)
+- MySQL, RabbitMQ
+- Cloud: AWS, GCP
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Current interests:**
+- IoT + LLMs (building talking dolls with ESP32)
+- Algorithms for AI applications
+- System architecture at scale
+
+**Leading teams since 2020** • Mentoring engineers • Writing ADRs
+
+📝 Writing at [satria.technology](https://satria.technology)
