@@ -5,11 +5,10 @@
 **What I work with:**
 - Go, Ruby, Python for backend systems
 - High-traffic commerce platforms (1M+ daily transactions)
-- MySQL, RabbitMQ
+- MySQL, PostgreSQL, RabbitMQ
 - Cloud: AWS, GCP
 
 **Current interests:**
-- IoT + LLMs (building talking dolls with ESP32)
 - Algorithms for AI applications
 - System architecture at scale
 
