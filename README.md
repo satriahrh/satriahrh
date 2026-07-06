@@ -9,8 +9,9 @@
 - Cloud: AWS, GCP
 
 **Current interests:**
-- Algorithms for AI applications
+- AI Engineering, using LLM
 - System architecture at scale
+- Odoo ERP System
 
 **Leading teams since 2020** • Mentoring engineers • Writing ADRs
 
